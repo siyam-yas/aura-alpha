@@ -104,3 +104,4 @@ if not os.path.exists(TOKEN_DB):
 if __name__ == '__main__':
     os.makedirs('uploads', exist_ok=True)
     app.run(debug=True)
+# Version : 0.0.1 (Alpha)
