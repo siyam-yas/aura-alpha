@@ -59,7 +59,7 @@ curl -X POST -F 'title=Funny Meme' -F 'img=https://example.com/meme.png' "http:/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/siyam-yas/aura.git
+    git clone https://github.com/siyam-yas/aura-alpha.git
     ```
 
 2. Navigate to the project directory:
